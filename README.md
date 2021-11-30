@@ -1,2 +1,5 @@
-# exalt-kwlkscje
-Created with WebComponents.dev
+# Exalt Starter-kit
+
+## Links
+
+- [GitHub project](https://github.com/exalt/exalt)
